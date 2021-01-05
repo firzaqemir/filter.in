@@ -1,0 +1,4 @@
+#Wed Jan 06 03:38:50 ICT 2021
+base.0=E\:\\KULIAH\\Mobile\\filter_in\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
